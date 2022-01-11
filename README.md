@@ -6,7 +6,7 @@ Make sure node and npm are installed on machine
 export API_TOKEN="yQLuRBGWgjyZ4oCHIRe2q2SAL" APP_ENV="dev"
 
 npm i
-node index.js
+npm start
 # server will start on port 5000
 ```
 

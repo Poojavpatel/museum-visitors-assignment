@@ -46,4 +46,5 @@ const getVistitorsSummary = async (req, res) => {
 
 module.exports = {
   getVistitorsSummary,
+  formatAttendanceData
 }
